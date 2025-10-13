@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00BFFF&height=180&section=header&text=ASTROSYNX%20🌌&fontSize=42&fontAlignY=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00BFFF&height=180&section=header&text=ASTROSYNX%20🌌&fontSize=42&fontAlignY=50&fontColor=001F6D" />
 </p>
 
 <p align="center">
