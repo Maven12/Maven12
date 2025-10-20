@@ -70,5 +70,5 @@ Astrosynx stands for precision validation and resilient infrastructure — where
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00BFFF&height=120&section=footer&fontColor=fff&text=ASTROSYNX%20VALIDATOR%20—%20SECURING%20THE%20FUTURE%20🌌&fontSize=26" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00BFFF&height=120&section=footer&fontColor=001F6D&text=ASTROSYNX%20VALIDATOR%20—%20SECURING%20THE%20FUTURE%20🌌&fontSize=26" alt="footer"/>
 </p>
